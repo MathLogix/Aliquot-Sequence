@@ -34,6 +34,3 @@ An **aliquot sequence** is a sequence of numbers generated from a starting posit
 - **Terminating**: Sequences that eventually reach 1.
 - **Cyclic**: Sequences that enter a loop (e.g., 6 → 6).
 - **Diverging**: Sequences that increase indefinitely without settling into a cycle or terminating.
-
-## Summary
-Aliquot sequences provide an interesting way to explore the properties of numbers and their divisors, revealing patterns and behaviors in number theory.
